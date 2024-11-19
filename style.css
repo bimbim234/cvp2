@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: radial-gradient(#c7c7c7 25%, c7c7c7 74%);
+    height: 100vh;
+    font-family: system-ui;
+    background-color: wheat;
+}
+.main{
+    height: 115px;
+    width: 800px;
+    background-color: white;
+    box-shadow: 5px 7 px 15 px 5px #b9b6b6;
+    margin: 20px auto;
+}
+.top-selection{
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+}
+.Profile{
+    width: 150px;
+    border-radius: 100px;
+}
+.p1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+}
+.p2{
+    font-size: 20px;
+    color: white;
+    margin: 0px;
+    margin-top: 10px;
+}
+.col-div-4{
+    width: 35%;
+    float: left;
+}
+.col-div-8{
+    width: 62%;
+    float: left;
+}
+.line{
+    border-left: 1px solid #c7c7c7;
+    height: 800px;
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+}
+.content-box{
+    padding: 20px;
+}
+.head{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.p3{
+    color: #7b7b7b;
+    margin-bottom: -5px;
+}
+.p-4{
+    font-size: 14px;
+    color: #7b7b7b;
+}
+img{
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 100%;
+    padding: 40px;
+}
